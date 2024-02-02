@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gordor26
 - 👀 I’m interested in games, AI, etc
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, R
 - 📫 How to reach me (rigelcgordon@gmail.com)
 
 <!---
